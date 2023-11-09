@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: DESKTOP-MU1P8TT
+pool: default
 
 steps:
 - task: NodeTool@0
